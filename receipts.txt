@@ -1,0 +1,17 @@
+Code					 Item Name						 Price					 NumItem	 TotSale
+115							Lentils		      			5.63								5			28.15
+120							Celery		       			0.59								2			1.18
+201							Anchovy		      			1.37								1			1.37
+230							Chicken Breast				10.78								2			21.56
+231							Chicken Leg	   			8.22								2			16.44
+264							Beef Steak	    			30.20								1			30.20
+402							Peas			        			5.00								1			5.00
+509							Beans Brown	   			2.24								1			2.24
+585							Chicken Broth	 			1.89								2			3.78
+605							Toothpaste	    			8.00								1			8.00
+704							Dish Soap		    			7.50								3			22.50
+710							Detergent		    			24.12								4			96.48
+802							Chewing gum	   			2.00								1			2.00
+843							Dishes		       			49.99								1			49.99
+
+														Totals:											27				288.89

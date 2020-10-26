@@ -1,0 +1,12 @@
+Code					 Category Name						 Items Sold					 TotSales Amt
+100								Food Vegetables								2
+200								Food Meats								4
+300								Food Breads Grains								0
+400								Food Frozen								1
+500								Food Canned								2
+600								Toiletries								1
+700								Cleaning Supplies								2
+800								Other								2
+Total Customers : 1
+Total Items Sold: 27
+Total Sales: 288.89 
